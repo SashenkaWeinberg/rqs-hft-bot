@@ -1,16 +1,16 @@
-# RQS Market Maker - HFT Trading Bot
+# RQS Trading Bot — Algorithmic HFT
 
-Proprietary algorithmic market-making bot by Ridge Quant Stewardship.
+Algorithmic trading bot for perpetuals markets.
 
 ## Features
 - Real-time WebSocket market data processing
 - Order Flow Imbalance (OFI) with Z-Score normalization
-- Adaptive Risk Engine (Hard Stop, Latency Guard, 
-  Adverse Selection Protection)
-- Live tested on BingX perpetuals
+- Adaptive Risk Engine (Hard Stop, Latency Guard,
+  Adverse Selection Protection)  
+- Live tested on BingX perpetuals (KAVA-USDT)
 
 ## Stack
 Rust, Tokio, WebSocket, GZIP
 
 ## Status
-Live testing. Core engine — private repository.
+Research & development phase. Private repository.
