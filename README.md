@@ -13,4 +13,4 @@ Proprietary algorithmic market-making bot by Ridge Quant Stewardship.
 Rust, Tokio, WebSocket, GZIP
 
 ## Status
-Live testing. Core engine — private repository.# rqs-hft-bot
+Live testing. Core engine — private repository.
